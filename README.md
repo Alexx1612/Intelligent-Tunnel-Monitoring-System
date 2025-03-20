@@ -6,6 +6,7 @@ The Intelligent Tunnel Monitoring System leverages FreeRTOS to implement multith
 
 This project implements an intelligent tunnel monitoring system using an Arduino Mega 2560 microcontroller and sensors to detect vehicles, hazardous gases, and smoke. The system enhances traffic safety and efficiency by tracking vehicle movement, enforcing capacity limits, and triggering alerts for emergencies. It uses FreeRTOS for real-time multitasking and provides visual feedback via LEDs and the Serial Monitor.
 
+WOKWI Simulation : https://wokwi.com/projects/420279293544719361
 
 🚀 FEATURES
  - Traffic Monitoring: Detects vehicle entry/exit on two lanes using PIR sensors.
